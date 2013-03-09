@@ -1,0 +1,47 @@
+ A 1 Doe, John 
+ 3 1 Bad Kind
+ A -1 Negative Priority
+ A D Bad Priority
+ A 1 
+P 10 High Priority    
+P 3 Emerson, Jane
+A 2 Henderson, William 
+A 3 Towler, Francis 
+P 3 Harrison, Emily 
+A 2 Perry, Jo Ellen 
+A 4  Rhyne, Lauren 
+A 3 Tetterton, James 
+P 1 Littleton, Christine
+a 1 Page, Kimberly
+a 2  Keel, Robyn
+a 2   Williams, James
+p 1 Peterson, Keith
+p 3  Fidler, Paul
+A 2    Smith, Amos
+A 3  Jones, Francis
+A 2 Bell, Frank
+P 3 Nelson, Richard
+P 2 Yarbrough, Stephanie
+P 2 Wall, Susan
+A 3 Masters, Burt
+A 2 Lamb, Bill
+A 4 Nicholson, Henry
+p 4 Myers, Gina
+P 3 McKeel, Kenneth
+A 4 Handrick, Marian
+A 3 Handrick, Donald
+P 3 Lane, Susan
+A 4  Richards, Fiona
+P 2 Young, Charlotte
+p 3 Young, Blake
+A 1 Young, Charles
+A 1 Lyons, Linda
+A 2 Lyons, Robert
+p 1 Smith, Sandra
+p 1 Hughes, Jack
+A 2 Ferguson, Paul
+A 3 Barber, David
+A 3 Ledbetter, Jeanne
+A 2 Bell, Richard
+p 1 Doe, Baby John
+p 3 Wilson, Richard
