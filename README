@@ -1,0 +1,7 @@
+This program manages the patients in and out of an emergency room.
+Patients are placed in the waiting list based on priority given at time
+of entry.  Priority can be changed at any time for any patient.  Add patients to empty exam rooms with the 'fill exam rooms' button.  Pediatric rooms
+are prefixed with 'P'.  General purpose rooms are prefixed with '1' (one).  If
+the only empty room is a pediatric room, the program will skip adult patients
+and find the next available pediatric patient in the list.  If the only empty 
+room is a general purpose room, the next person in the list will be admitted.
